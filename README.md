@@ -1,4 +1,4 @@
-# [Lukey](https://modrinth.com/project/lukey) - "Another Modded Experience" - based on 1.20.1
+# [Lukey - "Another Modded Experience" - based on 1.20.1](https://modrinth.com/project/lukey)
 
 ![Banner](https://cdn.modrinth.com/data/ReJdx1Cz/images/15f689faf037a339d54bf8000e0ca9ea21eed48f.png)
 
